@@ -4,15 +4,17 @@ Clone Signup page - Microverse project
 Built with
 HTML CSS
 
-#Live Demo 
+# Live Demo 
 
-#Getting Started To get a local copy up and running follow these simple example steps.
+https://rawcdn.githack.com/karthi07/SignUp/376e1de397b64581ffc50f335b4ccabd86aa235e/signup.html
 
-#Prerequisites A browser of your choice preferrably Chrome.
+# Getting Started To get a local copy up and running follow these simple example steps.
 
-#Setup Fork this project to your local machine
+# Prerequisites A browser of your choice preferrably Chrome.
 
-#Authors #bust_in_silhouette Sayyod
+# Setup Fork this project to your local machine
+
+# Authors #bust_in_silhouette Sayyod
 
 Github: @MrSayyod
 
@@ -20,8 +22,8 @@ Github: @MrSayyod
 
 Github: @karthi07
 
-#handshake Contributing Contributions, issues and feature requests are welcome!
+# handshake Contributing Contributions, issues and feature requests are welcome!
 
 Feel free to check the issues page.
 
-#Show your support Give a star if you like this project! 
+# Show your support Give a star if you like this project! 
