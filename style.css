@@ -1,0 +1,131 @@
+body {
+    background-color: #eceef1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav {
+    text-align: right;
+    float: right;
+}
+.navContainer {
+    display: flex;
+    flex-direction: row;
+}
+.already > p, a {
+    font-size: 12px;
+    margin: 10px 0 0 0;
+    padding: 0;
+    text-decoration: none;
+}
+.signin {
+    padding: 0;
+    margin: 0 10px 0 10px;
+    background-color: #0077c5;
+    height: 40px;
+    width: 80px;
+    font-size: 15px;
+    color: white;
+    border-color: transparent;
+    border: none;
+    border-radius: 10px;
+}
+section {
+    width: 380px;
+    margin: auto;
+}
+section > h2 {
+    text-align: center;
+}
+.intuit {
+    margin: 50px 0 0 0;
+    height: 80px;
+    width: 200px;
+}
+.socimg {
+    display: flex;
+    flex-direction: row;
+}
+.stxt {
+    width: 33%;
+    float: left;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.stxt > img {
+    height: 30px;
+    width: 30px;
+    float: left;
+}
+.logo {
+    height: 23px;
+    width: 23px;
+}
+.btnImg {
+    height: 15px;
+    width: 15px;
+}
+.submitBtn {
+    text-align: center;
+    font-size: 15px;
+    height: 44px;
+    width: 100%;
+    background-color: #0077c5;
+    color: white;
+    border-color: transparent;
+    border: none;
+    border-radius: 4px;
+}
+fieldset {
+    padding: 30px;
+    line-height: 30px;
+    background-color: white;
+    margin-left: -1px;
+    margin-right: -1px;
+}
+input {
+    border-radius: 5px;
+}
+#email, #phone, #passwd {
+    height: 25px;
+    width: 100%;
+}
+fieldset > p, h3 {
+    margin-top: 0;
+    text-align: center;
+}
+fieldset > p {
+    font-size: 13px;
+}
+.agreeText {
+    font-size: 12px;
+    font-style: italic;
+    color: #757575;
+    line-height: 1.5em;
+}
+form, fieldset, .captcha {
+    border: 1px solid #c7c7c7;
+    background-color: white;
+}
+.captcha {
+    padding: 16px;
+    font-size: 10px;
+    color: #8d9096;
+    text-align: center;
+    background-color: #eceef1;
+}
+footer {
+    color: #505050;
+    font-size: 12px;
+    text-align: center;
+}
+.footerLinks > a {
+    color: #505050;
+}
+.footerLinks > a:hover {
+    text-decoration: underline;
+}
+.tp {
+    font-size: 10px;
+}
+a {
+    color: #0077c5;
+}
