@@ -29,7 +29,7 @@ nav {
     border-radius: 10px;
 }
 section {
-    width: 35%;
+    width: 380px;
     margin: auto;
 }
 section > h2 {
@@ -79,6 +79,9 @@ fieldset {
     line-height: 30px;
     background-color: white;
 }
+input {
+    border-radius: 5px;
+}
 #email, #phone, #passwd {
     height: 25px;
     width: 100%;
@@ -96,13 +99,35 @@ fieldset > p {
     color: #757575;
     line-height: 1.5em;
 }
-.captch {
+form, fieldset, .captcha {
+    border: 1px solid #c7c7c7;
+    background-color: white;
+}
+fieldset {
+    margin-left: -1px;
+    margin-right: -1px;
+}
+.captcha {
+    padding: 16px;
     font-size: 10px;
     color: #8d9096;
     text-align: center;
+    background-color: #eceef1;
 }
 footer {
     color: #505050;
     font-size: 12px;
     text-align: center;
+}
+.footerLinks > a {
+    color: #505050;
+}
+.footerLinks > a:hover {
+    text-decoration: underline;
+}
+.tp {
+    font-size: 10px;
+}
+a {
+    color: #0077c5
 }
