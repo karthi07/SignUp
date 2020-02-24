@@ -78,6 +78,8 @@ fieldset {
     padding: 30px;
     line-height: 30px;
     background-color: white;
+    margin-left: -1px;
+    margin-right: -1px;
 }
 input {
     border-radius: 5px;
@@ -103,10 +105,6 @@ form, fieldset, .captcha {
     border: 1px solid #c7c7c7;
     background-color: white;
 }
-fieldset {
-    margin-left: -1px;
-    margin-right: -1px;
-}
 .captcha {
     padding: 16px;
     font-size: 10px;
@@ -129,5 +127,5 @@ footer {
     font-size: 10px;
 }
 a {
-    color: #0077c5
+    color: #0077c5;
 }
