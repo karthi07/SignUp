@@ -2,12 +2,12 @@
 Clone Signup page - Microverse project
 
 # Built with
-HTML
-CSS
+1. HTML
+2. CSS
 
 # Live Demo 
 
-https://rawcdn.githack.com/karthi07/SignUp/376e1de397b64581ffc50f335b4ccabd86aa235e/signup.html
+https://rawcdn.githack.com/karthi07/SignUp/fa96058e3ede5bf1da5dc6e6880265b0e931c4ce/signup.html
 
 # Getting Started
 To get a local copy up and running follow these simple example steps.
